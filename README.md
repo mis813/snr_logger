@@ -1,2 +1,2 @@
 # snr_logger
-log SNR 
+log SNRMargin from tp-link ADSL Modem
